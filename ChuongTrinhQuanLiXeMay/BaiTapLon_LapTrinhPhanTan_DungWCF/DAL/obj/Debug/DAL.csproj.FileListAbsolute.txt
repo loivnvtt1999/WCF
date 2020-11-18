@@ -1,0 +1,13 @@
+D:\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\DAL\bin\Debug\DAL.dll.config
+D:\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\DAL\bin\Debug\DAL.dll
+D:\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\DAL\bin\Debug\DAL.pdb
+D:\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\DAL\obj\Debug\DAL.dll
+D:\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\DAL\obj\Debug\DAL.pdb
+C:\Users\ASUS\OneDrive\Desktop\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\DAL\bin\Debug\DAL.dll.config
+C:\Users\ASUS\OneDrive\Desktop\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\DAL\bin\Debug\DAL.dll
+C:\Users\ASUS\OneDrive\Desktop\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\DAL\bin\Debug\DAL.pdb
+C:\Users\ASUS\OneDrive\Desktop\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\DAL\obj\Debug\DAL.dll
+C:\Users\ASUS\OneDrive\Desktop\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\DAL\obj\Debug\DAL.pdb

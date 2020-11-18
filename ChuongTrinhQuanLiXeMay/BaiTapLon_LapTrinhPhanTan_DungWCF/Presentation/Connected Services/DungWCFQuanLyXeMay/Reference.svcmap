@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="bde90e6e-869f-4fc0-bce0-94382611856c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:55092/QuanLyXeMay.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="QuanLyXeMay.wsdl" MetadataType="Wsdl" ID="0d2d1b57-c252-4179-988a-f2cc1d8c27e0" SourceId="1" SourceUrl="http://localhost:55092/QuanLyXeMay.svc?wsdl" />
+    <MetadataFile FileName="QuanLyXeMay.xsd" MetadataType="Schema" ID="a15a3078-fe96-4dd9-8135-f01d590eccef" SourceId="1" SourceUrl="http://localhost:55092/QuanLyXeMay.svc?xsd=xsd1" />
+    <MetadataFile FileName="QuanLyXeMay1.xsd" MetadataType="Schema" ID="d161e0c6-cf86-465b-8c06-0b979528956a" SourceId="1" SourceUrl="http://localhost:55092/QuanLyXeMay.svc?xsd=xsd2" />
+    <MetadataFile FileName="QuanLyXeMay.disco" MetadataType="Disco" ID="044a3c5b-83d7-419d-8314-75117208df64" SourceId="1" SourceUrl="http://localhost:55092/QuanLyXeMay.svc?disco" />
+    <MetadataFile FileName="QuanLyXeMay2.xsd" MetadataType="Schema" ID="cc85a9b2-4ef3-4e14-8dcf-e689a83d7829" SourceId="1" SourceUrl="http://localhost:55092/QuanLyXeMay.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

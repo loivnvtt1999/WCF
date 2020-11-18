@@ -1,0 +1,11 @@
+D:\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\Entity\bin\Debug\Entity.dll
+D:\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\Entity\bin\Debug\Entity.pdb
+D:\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\Entity\obj\Debug\Entity.dll
+D:\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\Entity\obj\Debug\Entity.pdb
+C:\Users\ASUS\OneDrive\Desktop\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\Entity\bin\Debug\Entity.dll
+C:\Users\ASUS\OneDrive\Desktop\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\Entity\bin\Debug\Entity.pdb
+C:\Users\ASUS\OneDrive\Desktop\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\Entity\obj\Debug\Entity.dll
+C:\Users\ASUS\OneDrive\Desktop\BaiTapLon_LapTrinhPhanTan\ChuongTrinhQuanLiXeMay\BaiTapLon_LapTrinhPhanTan_DungWCF\Entity\obj\Debug\Entity.pdb
